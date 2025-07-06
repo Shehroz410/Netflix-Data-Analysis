@@ -22,9 +22,6 @@ This project visualizes the distribution of movie genres using Python's data ana
 
 The main output is a horizontal bar chart showing how frequently each genre appears in the dataset.
 
-Example plot:
-![Genre Distribution Plot](link-to-your-plot-image-if-you-upload-it)
-
 ## 💡 Learning Outcomes
 
 - How to work with categorical variables in a dataset
@@ -35,11 +32,11 @@ Example plot:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/movie-genre-analysis.git
+   git clone https://github.com/Shehroz410/Netflix-Data-Analysis
    ```
 2. Navigate to the project folder:
    ```
-   cd movie-genre-analysis
+   cd Netflix-Data-Analysis
    ```
 3. Install required libraries (if not already installed):
    ```

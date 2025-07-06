@@ -47,10 +47,6 @@ The main output is a horizontal bar chart showing how frequently each genre appe
    jupyter notebook main.ipynb
    ```
 
-## 📁 Dataset
-
-Replace this with your dataset description or source if applicable.
-
 ## 📬 Contact
 
 Made by **Shehroz Sabir** — [LinkedIn](https://www.linkedin.com/in/shehrozsabir/)  
